@@ -3,7 +3,7 @@
 ## Installation
 
 ```bash
-statusline install block-ram
+statusline install block-cpus
 ```
 
 ## Usage
