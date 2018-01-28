@@ -1,6 +1,6 @@
 {
   "name": "statusline-block-cpus",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Block for displaying graphs of CPU speed",
   "main": "index.js",
   "repository": "https://github.com/statusline/statusline-block-cpus",
